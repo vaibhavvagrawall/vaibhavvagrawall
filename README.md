@@ -26,7 +26,7 @@ Hi There, I'm Vaibhav Agrawal!
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,flask,django,express,bootstrap,react,nodejs,pandas,numpy,postgres,mysql,mongodb,git,figma,vercel,heroku,docker,powerbi,tableau)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,r,js,html,css,aws,azure,flask,django,express,postman,bootstrap,tailwind,react,nextjs,nodejs,vite,firebase,opencv,postgres,mysql,mongodb,matlab,git,vscode,figma,vercel,heroku,docker,kubernetes,wordpress)](https://skillicons.dev)
 
 ### Technical Skills
 - **Languages:** Java, Python, C/C++, JavaScript, HTML/CSS  
