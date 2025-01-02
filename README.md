@@ -24,17 +24,23 @@ Hi There, I'm Vaibhav Agrawal!
 💼 I’m currently open for: <b>An Internship</b> 
 </pre>
 
+
 ## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,r,js,html,css,aws,azure,flask,django,php,express,postman,d3,bootstrap,tailwind,react,nextjs,angular,nodejs,vite,firebase,opencv,tensorflow,selenium,postgres,mysql,mongodb,matlab,git,vscode,figma,vercel,heroku,docker,kubernetes,wordpress,arduino,md)](https://skillicons.dev)
 
-### Technical Skills
-- **Languages:** Java, Python, C/C++, JavaScript, HTML/CSS  
-- **Frameworks:** Django, Flask, Express, Bootstrap  
-- **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, PyTesseract, Scikit-Learn, BeautifulSoup, Selenium, Scipy, ReactJS  
-- **Databases:** SQL, MySQL, MongoDB, PostgreSQL  
-- **Developer Tools:** Git, DBeaver, Jupyter Notebook, Cisco Packet Tracer, VS Code, Figma, Power BI, Tableau  
-- **Course Work:** OOPS, DBMS, Computer Network, System Design, Operating System, Data Structure and Algorithm  
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavvagrawall&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/vaibhavvagrawall)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvagrawall&layout=compact&theme=radical)](https://github.com/vaibhavvagrawall)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvagrawall&theme=radical)
+
+</div>
 
 ## 🌐 Connect with Me
 
