@@ -2,13 +2,13 @@
 
 <h1 align="center">
 Hi There, I'm Vaibhav Agrawal!
-	<a href="https://github.com/himakshi2209" target="_self">
+	<a href="https://github.com/vaibhavvagrawall" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+Developer;AI+|+|ML+|DS+Enthusiast;Data+Analyst;BTech+Computer+Science+Student+@+VIT+Vellore;Former+Research+Intern+@+KeyNCoders;Former+Web+Developer+Intern+@+Outcode+Software+LLC;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+Developer;AI+|+ML+|+DS+Enthusiast;Data+Analyst;BTech+CS+Student+@+VIT;Ex-Intern+@+KeyNCoders;Ex-Web+Dev+@+Outcode+Software;" />
 </h3>
 
 <br/>
