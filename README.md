@@ -24,27 +24,17 @@ Hi There, I'm Vaibhav Agrawal!
 💼 I’m currently open for: <b>An Internship</b> 
 </pre>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,c,c++,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,java,r,mysql,flask,django,sqlite3,postgresql,powerbi" /><br>
-</div>
+## 🛠️ Skills
 
-<br/>
-<hr/>
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,flask,django,express,bootstrap,react,nodejs,pandas,numpy,postgres,mysql,mongodb,git,figma,vercel,heroku,docker,powerbi,tableau)](https://skillicons.dev)
 
-
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/vaibhavvagrawall' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+### Technical Skills
+- **Languages:** Java, Python, C/C++, JavaScript, HTML/CSS  
+- **Frameworks:** Django, Flask, Express, Bootstrap  
+- **Libraries:** Pandas, NumPy, Matplotlib, OpenCV, PyTesseract, Scikit-Learn, BeautifulSoup, Selenium, Scipy, ReactJS  
+- **Databases:** SQL, MySQL, MongoDB, PostgreSQL  
+- **Developer Tools:** Git, DBeaver, Jupyter Notebook, Cisco Packet Tracer, VS Code, Figma, Power BI, Tableau  
+- **Course Work:** OOPS, DBMS, Computer Network, System Design, Operating System, Data Structure and Algorithm  
 
 ## 🌐 Connect with Me
 
