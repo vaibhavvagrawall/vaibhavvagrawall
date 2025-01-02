@@ -24,11 +24,17 @@ Hi There, I'm Vaibhav Agrawal!
 💼 I’m currently open for: <b>An Internship</b> 
 </pre>
 
-
 ## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,r,js,html,css,aws,azure,flask,django,php,express,postman,d3,bootstrap,tailwind,react,nextjs,angular,nodejs,vite,firebase,opencv,tensorflow,selenium,postgres,mysql,mongodb,matlab,git,vscode,figma,vercel,heroku,docker,kubernetes,wordpress,arduino,md)](https://skillicons.dev)
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/vaibhavvagrawall">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibhavvagrawall&theme=radical" alt="vaibhav-contribution" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -44,11 +50,10 @@ Hi There, I'm Vaibhav Agrawal!
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavvagrawall&layout=compact&theme=algolia" alt="Vaibhav Agrawal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavvagrawall&layout=compact&theme=algolia" alt="vaibhav-trophys" /></a> </p>
 
 ## 🌐 Connect with Me
 
-<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vaibhavvagrawall" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vaibhav-linkedin" />
@@ -57,6 +62,5 @@ Hi There, I'm Vaibhav Agrawal!
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="vaibhav-email"/>
   </a>
 </div>
-
 
 Feel free to explore my repositories, and don't hesitate to reach out!
