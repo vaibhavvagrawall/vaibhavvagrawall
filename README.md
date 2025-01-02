@@ -42,6 +42,10 @@ Hi There, I'm Vaibhav Agrawal!
 
 </div>
 
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+
 ## 🌐 Connect with Me
 
 <br>
