@@ -1,10 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvagrawall.vaibhavvagrawall" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Agrawal!;" />
+Hi There, I'm Vaibhav Agrawal!
+	<a href="https://github.com/himakshi2209" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+Developer;AI+|+|ML+|DS+Enthusiast;Data+Analyst;BTech+Computer+Science+Student+@+VIT+Vellore;Former+Research+Intern+@+KeyNCoders;Former+Web+Developer+Intern+@+Outcode+Software+LLC;" />
+</h3>
 
 <br/>
 
