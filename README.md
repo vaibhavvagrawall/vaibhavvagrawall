@@ -8,7 +8,7 @@ Hi There, I'm Vaibhav Agrawal!
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Data+Engineering+Analyst+@+Optum+(UHG);Web+Developer;AI+|+ML+|+DS+Enthusiast;BTech+CS+@+VIT+Vellore;Ex-Intern+@+KeyNCoders+&+Outcode+Software;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Data+Engineering+Analyst+@+Optum+(UHG);Web+Developer;AI+|+ML+|+DS+Enthusiast;BTech+CS+@+VIT+Vellore;" />
 </h3>
 
 
