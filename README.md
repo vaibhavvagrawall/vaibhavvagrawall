@@ -8,7 +8,7 @@ Hi There, I'm Vaibhav Agrawal!
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Web+Developer;AI+|+ML+|+DS+Enthusiast;Data+Analyst;BTech+CS+Student+@+VIT+Vellore;Ex-Intern+@+KeyNCoders;Ex-Web+Dev+@+Outcode+Software;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Data+Engineering+Analyst+@+Optum+(UHG);Web+Developer;AI+|+ML+|+DS+Enthusiast;BTech+CS+@+VIT+Vellore;Ex-Intern+@+KeyNCoders+&+Outcode+Software;" />
 </h3>
 
 
@@ -22,7 +22,7 @@ Hi There, I'm Vaibhav Agrawal!
 🌱 I have interned with Outcode Software as Web Developer and with KeyNCoders as Research Inten
 🌟 Main languages: Python, C++
 🚩 Interested in Full Stack Machine Learning Application development
-💼 I’m currently open for: <b>An Internship</b> 
+💼 I’m currently working as a Data Engineering Analyst @ Optum (UHG) 
 </pre>
 
 
